@@ -1,5 +1,5 @@
 # Script-Kiddie-Trolling
-Just a few fun scripts a friend and I used as tweens in our computer sciences course to troll others, revised using my current knowledge.
+Just a few fun scripts a friend and I used as teens in our computer sciences course to troll others, revised using my current knowledge.
 
 * `Annoy.bat` starts a new instance of itself, then closes the current one.
 * `HardKill.bat` opens new instances of itself in a loop, each instance again opening new instances in a loop.
