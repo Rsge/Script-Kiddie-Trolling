@@ -1,5 +1,5 @@
 @echo off
-:b
+:S
 shutdown /a
-goto b
-
+goto S
+exit
